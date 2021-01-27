@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{9CEFCD3E-C391-443D-AFBC-4A21BD180989}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.HaftaOdev", "4.HaftaOdev\4.HaftaOdev.csproj", "{B40B9F74-6372-404A-AC0A-B5A3DBF88C5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.HaftaOdev", "4.HaftaOdev\4.HaftaOdev.csproj", "{B40B9F74-6372-404A-AC0A-B5A3DBF88C5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.DersOdevi", "5.DersOdevi\5.DersOdevi.csproj", "{832621B2-6A18-45C9-8280-4BF39ED9211F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.DersOdevi", "5.DersOdevi\5.DersOdevi.csproj", "{832621B2-6A18-45C9-8280-4BF39ED9211F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{96018D1D-8695-4F02-8CAC-103A46A8DA0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{832621B2-6A18-45C9-8280-4BF39ED9211F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{832621B2-6A18-45C9-8280-4BF39ED9211F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{832621B2-6A18-45C9-8280-4BF39ED9211F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96018D1D-8695-4F02-8CAC-103A46A8DA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96018D1D-8695-4F02-8CAC-103A46A8DA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96018D1D-8695-4F02-8CAC-103A46A8DA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96018D1D-8695-4F02-8CAC-103A46A8DA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
